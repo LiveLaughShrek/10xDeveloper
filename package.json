@@ -1,0 +1,19 @@
+{
+  "name": "10xdeveloper",
+  "version": "1.0.0",
+  "description": "code for 10 x developers only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "10x",
+    "Dev",
+    "Engineer"
+  ],
+  "author": "dev",
+  "license": "ISC",
+  "dependencies": {
+    "10xengineer": "^1.0.1"
+  }
+}
